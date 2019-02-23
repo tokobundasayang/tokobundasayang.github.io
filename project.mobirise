@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-16_1135",
+    "name": "IBRA PROPERTY",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -33,7 +33,11 @@
     "siteFonts": [],
     "uniqCompNum": 5,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
